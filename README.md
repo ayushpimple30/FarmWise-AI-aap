@@ -1,24 +1,3 @@
-Great 👍
-Now let’s make your GitHub repo **look powerful, professional, and resume-ready**.
-
-Below is a **strong README.md** tailored for your project **FarmWise AI**, with your **live demo link**, clean structure, and recruiter-friendly wording.
-
----
-
-## ✅ STEP 1: Create `README.md`
-
-In your project root folder, create a file named:
-
-```
-README.md
-```
-
----
-
-## ✅ STEP 2: Paste This POWERFUL README CONTENT
-
-> 🔥 You can copy–paste this exactly
-
 ```md
 # 🌾 FarmWise AI – Smart Agriculture Assistant
 
@@ -155,17 +134,4 @@ git add README.md
 git commit -m "Add professional README"
 git push
 ````
-
----
-
-## 🔥 Why This README Is “Powerful”
-
-✔ Clear project purpose
-✔ Live demo link visible at top
-✔ Clean features list
-✔ Modern tech stack
-✔ Recruiter-friendly
-✔ Perfect for **placements & internships**
-
----
 
