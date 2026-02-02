@@ -118,9 +118,7 @@ To deploy your own version:
 
 <img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/284cb84b-666c-4360-8368-e716597a0a96" />
 
-```
-
----
+``
 
 ## 🎯 Use Cases
 
