@@ -109,7 +109,7 @@ To deploy your own version:
 ## 📸 Screenshots 
 
 
-```md
+
 <img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/86770e00-a5fa-4eb4-9d05-897830df6fd1" />
 
 <img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/c09603d7-5fa9-4179-936b-eddcc677f1fa" />
@@ -136,7 +136,7 @@ To deploy your own version:
 **Ayush Pimple**
 
 * GitHub: [https://github.com/ayushpimple30](https://github.com/ayushpimple30)
-* LinkedIn: *(add your LinkedIn here)*
+* LinkedIn: *www.linkedin.com/in/ayush-pimple-241547358*
 
 ---
 
