@@ -1,6 +1,17 @@
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-fast-purple?logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-utility--first-38BDF8?logo=tailwindcss)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/ayushpimple30/FarmWise-AI-aap)
+![GitHub Stars](https://img.shields.io/github/stars/ayushpimple30/FarmWise-AI-aap?style=social)
+
 # 🌾 FarmWise AI – Intelligent Agriculture Assistant
 
-FarmWise AI is a modern, AI-powered web application built to support smarter agricultural decision-making. It provides intelligent insights, recommendations, and assistance for farmers, students, and agri-tech enthusiasts using cutting-edge web technologies.
+FarmWise AI – Full Stack AI Web Application
+Built a full-stack AI-powered agriculture assistant using React, TypeScript, Node.js, and Express.
+Integrated AI APIs for intelligent query responses and deployed the frontend on Vercel with a scalable backend architecture.
+
 
 🚀 **Live Demo**  
 👉 https://farm-wise-ai-7it9q3vfd-ayushpimple30-4693s-projects.vercel.app/
@@ -70,6 +81,18 @@ FarmWise-AI/
 │── package.json
 │── tsconfig.json
 └── README.md
+
+backend/
+│── src/
+│   ├── routes/
+│   │   └── ai.route.js
+│   ├── controllers/
+│   │   └── ai.controller.js
+│   ├── services/
+│   │   └── ai.service.js
+│   └── server.js
+│── .env
+│── package.json
 
 ````
 
