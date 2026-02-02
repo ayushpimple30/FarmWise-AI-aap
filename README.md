@@ -1,6 +1,3 @@
-
---- 
-
 ```md
 # 🌾 FarmWise AI – Intelligent Agriculture Assistant
 
