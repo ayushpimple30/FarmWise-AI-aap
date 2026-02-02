@@ -1,4 +1,3 @@
-```md
 # 🌾 FarmWise AI – Intelligent Agriculture Assistant
 
 FarmWise AI is a modern, AI-powered web application built to support smarter agricultural decision-making. It provides intelligent insights, recommendations, and assistance for farmers, students, and agri-tech enthusiasts using cutting-edge web technologies.
